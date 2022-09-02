@@ -23,7 +23,7 @@ currently working on ...
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=tomkax" alt="tomkaX" />
+<img src="https://komarev.com/ghpvc/?username=bealfan" alt="Bealfan" />
 
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
@@ -44,11 +44,11 @@ currently working on ...
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=tomkax&show_icons=true" alt="Bealfan" />
-  <img  align="right" src="https://github.com/tomkaX/tomkaX/blob/master/gifs/3aM.gif" width="230">
+  <img src="https://github-readme-stats.vercel.app/api?username=bealfan&show_icons=true" alt="Bealfan" />
+  <img  align="right" src="https://github.com/bealfan/bealfan/blob/master/gifs/3aM.gif" width="230">
  </p>
  <!--
-Don't forget to fork this repo and say thanks to **tomkaX/tomkaX** it  appears on your GitHub profile.
+This repo made thanks to the beautiful thanks to **tomkaX/tomkaX** 
 -->
 
 <p align="center">
